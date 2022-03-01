@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "welcome to jenkins-trigger"
+echo "welcome to jenkins2"
